@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>X.png</file>
+        <file>O.png</file>
+        <file>door_exit.png</file>
+        <file>275-2755889_repeat-reset-icon-hd-png-download.png</file>
+        <file>36517357_470663520058575_2261193972313489408_n.png</file>
+        <file>pngtree-blue-texture-checkered-background-image_505339.jpg</file>
+        <file>chuan-bi-noi-dung-bai-thuyet-trinh-bang-tieng-anh.jpg</file>
+        <file>anh-nen-lam-slide_023656040.jpg</file>
+        <file>cong-nghe-2.jpg</file>
+        <file>images.png</file>
+    </qresource>
+</RCC>

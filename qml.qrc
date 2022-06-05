@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>About.qml</file>
+        <file>Help.qml</file>
+        <file>StartScreen.qml</file>
+        <file>Button.qml</file>
+        <file>Play.qml</file>
+        <file>Cell.qml</file>
+        <file>Option.qml</file>
+        <file>User.qml</file>
+    </qresource>
+</RCC>
